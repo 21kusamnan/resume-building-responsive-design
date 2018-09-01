@@ -1,0 +1,17 @@
+.main{
+  display: flex;
+  border: 1px solid #000;
+  margin: 2px;
+}
+.left{
+  border: 1px solid #000;
+  margin: 2px;
+}
+.right{
+  border: 1px solid #000;
+margin: 2px;
+}
+table,tr,td{
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
